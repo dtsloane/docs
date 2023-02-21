@@ -1,8 +1,8 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Cambrean",
   "logo": {
-    "dark": "/logo/dark.png",
+    "dark": "/logo/cambrean.png",
     "light": "/logo/light.png"
   },
   "favicon": "/favicon.png",
