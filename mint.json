@@ -13,13 +13,13 @@
   },
   "topbarLinks": [
     {
-      "name": "Login",
-      "url": "https://mintlify.com/docs"
+      "name": "twitter",
+      "url": "https://twitter.com/CambreanHQ"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://forms.reform.app/4eI9fX/early-access/h4KODS"
   },
   "anchors": [
     {
@@ -58,8 +58,8 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "twitter": "https://twitter.com/CambreanHQ",
+    "github": "https://github.com/Cambrean",
+    "linkedin": "https://www.linkedin.com/company/cambrean/"
   }
 }
