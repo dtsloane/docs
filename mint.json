@@ -44,11 +44,11 @@
       "pages": ["introduction", "features"]
     },
     {
-      "group": "API Documentation",
+      "group": "Integrations",
       "pages": ["api-reference/authentication"]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "Connections",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
