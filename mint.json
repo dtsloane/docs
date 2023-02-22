@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Cambrean",
   "logo": {
-    "dark": "/logo/frame 4.png",
-    "light": "/logo/frame 4.png"
+    "dark": "/logo/purple-logo.png",
+    "light": "/logo/purple-logo.png"
   },
-  "favicon": "/frame 4.png",
+  "favicon": "/purple-logo.png",
   "colors": {
     "primary": "#9835FE",
     "light": "#9835FE",
