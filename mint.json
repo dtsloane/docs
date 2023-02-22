@@ -25,7 +25,7 @@
     {
       "name": "Integrations",
       "icon": "plug",
-      "url": "Integration-reference"
+      "url": "integration-referenc/Integrations"
     },
     {
       "name": "Changelog",
@@ -45,7 +45,7 @@
     },
     {
       "group": "Integrations",
-      "pages": ["Integration-reference/integrations"]
+      "pages": ["integration-reference/Integrations"]
     },
     {
       "group": "Connections",
