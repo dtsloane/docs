@@ -23,8 +23,8 @@
   },
   "anchors": [
     {
-      "name": "API Reference",
-      "icon": "rectangle-terminal",
+      "name": "Integrations",
+      "icon": "plug",
       "url": "api-reference"
     },
     {
