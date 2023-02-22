@@ -45,7 +45,7 @@
     },
     {
       "group": "Integrations",
-      "pages": ["api-reference/authentication"]
+      "pages": ["integration-reference/integrations"]
     },
     {
       "group": "Connections",
