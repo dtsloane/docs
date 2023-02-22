@@ -25,7 +25,7 @@
     {
       "name": "Integrations",
       "icon": "plug",
-      "url": "https://excellent-purple-frog.mintlify.app/integration-reference/Integrations"
+      "url": "integration-reference"
     },
     {
       "name": "Changelog",
