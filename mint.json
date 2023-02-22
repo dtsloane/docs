@@ -5,7 +5,7 @@
     "dark": "/logo/purple-logo.png",
     "light": "/logo/purple-logo.png"
   },
-  "favicon": "/purple-logo.png",
+  "favicon": "/logo/purple-logo.png",
   "colors": {
     "primary": "#9835FE",
     "light": "#9835FE",
