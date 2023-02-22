@@ -25,7 +25,7 @@
     {
       "name": "Integrations",
       "icon": "plug",
-      "url": "integration-reference/integrations"
+      "url": "/Integration-reference/Integrations.mdx"
     },
     {
       "name": "Changelog",
