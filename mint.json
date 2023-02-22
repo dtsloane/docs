@@ -41,7 +41,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "Getting Started","integration-reference/Integrations"]
+      "pages": ["introduction", "Getting Started", "integration-reference"]
     },
     {
       "group": "Integrations",
