@@ -45,15 +45,15 @@
     },
     {
       "group": "Integrations",
-      "pages": ["integration-reference/integrations"]
+      "pages": ["Integration-reference/integrations"]
     },
     {
       "group": "Connections",
       "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/update",
-        "api-reference/endpoint/delete"
+        "integration-reference/endpoint/get",
+        "integration-reference/endpoint/create",
+        "integration-reference/endpoint/update",
+        "integration-reference/endpoint/delete"
       ]
     }
   ],
