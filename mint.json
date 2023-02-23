@@ -28,13 +28,13 @@
       "url": "integration-reference"
     },
     {
-      "name": "Changelog",
-      "icon": "list",
+      "name": "Insights",
+      "icon": "brain",
       "url": "https://mintlify.com"
     },
     {
-      "name": "Community",
-      "icon": "discord",
+      "name": "Lab Mode",
+      "icon": "Vial",
       "url": "https://mintlify.com/community"
     }
   ],
