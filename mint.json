@@ -48,6 +48,10 @@
       "pages": ["integration-reference/Integrations"]
     },
     {
+      "group": "Insights",
+      "pages": ["insights"]
+    },
+    {
       "group": "Connections",
       "pages": [
         "integration-reference/endpoint/get",
