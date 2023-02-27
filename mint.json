@@ -41,7 +41,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "Getting Started", "Privacy"]
+      "pages": ["introduction", "Getting Started", "privacy"]
     },
     {
       "group": "Integrations",
