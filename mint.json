@@ -30,7 +30,7 @@
     {
       "name": "Insights",
       "icon": "brain",
-      "url": "pages/insights.mdx"
+      "url": "insights.mdx"
     },
     {
       "name": "Lab Mode",
