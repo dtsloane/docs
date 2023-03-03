@@ -30,7 +30,7 @@
     {
       "name": "Insights",
       "icon": "brain",
-      "url": "/pages/insights"
+      "url": "insights"
     },
     {
       "name": "Lab Mode",
