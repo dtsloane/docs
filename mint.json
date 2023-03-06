@@ -30,12 +30,12 @@
     {
       "name": "Insights",
       "icon": "brain",
-      "url": "insights/index"
+      "url": ["index"]
     },
     {
       "name": "Lab Mode",
       "icon": "Vial",
-      "url": "labmode/index"
+      "url": ["index"]
     }
   ],
   "navigation": [
@@ -49,7 +49,7 @@
     },
     {
       "group": "Lab Mode",
-      "pages": ["labmode/index"]
+      "pages": ["index"]
     },
     {
       "group": "Connections",
