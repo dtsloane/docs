@@ -49,11 +49,11 @@
     },
     {
       "group": "Lab Mode",
-      "pages": ["index"]
+      "pages": ["labmode/introduction"]
     },
     {
       "group": "Insights",
-      "pages": ["index"]
+      "pages": ["insights/introduction"]
     },
     {
       "group": "Connections",
