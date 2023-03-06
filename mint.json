@@ -30,12 +30,12 @@
     {
       "name": "Insights",
       "icon": "brain",
-      "url": "index"
+      "url": "insights"
     },
     {
       "name": "Lab Mode",
       "icon": "Vial",
-      "url": "index"
+      "url": "labmode"
     }
   ],
   "navigation": [
